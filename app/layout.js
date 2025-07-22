@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Snap Video",
-  description: "Snap Video",
+  title: "Duo Video",
+  description: "Duo Video",
 };
 
 export default function RootLayout({ children }) {

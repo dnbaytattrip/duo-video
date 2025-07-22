@@ -1,6 +1,6 @@
 "use client";
 function Home() {
-  return <div>Snap Video</div>;
+  return <div>Duo Video</div>;
 }
 
 export default Home;

@@ -33,7 +33,7 @@ function Home({ adminId, posterId }) {
                 decoding="async"
                 data-nimg="1"
                 className="rounded-full object-cover object-center p-2 bg-green-100"
-                src="/images/snapchat-logo.png"
+                src="/images/google-duo-logo"
               />
               <p className="text-xl font-medium text-neutral-700 text-center">
                 Incoming call...
